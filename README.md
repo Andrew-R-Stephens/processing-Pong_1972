@@ -19,7 +19,7 @@
 <br>
 
 ## Development Support
-<p><b>Minimum JRE:</b><a href="https://www.oracle.com/java/technologies/downloads/">Latest</a></br>
+<p><b>Minimum JRE:</b> <a href="https://www.oracle.com/java/technologies/downloads/">Latest</a></br>
 <b>Suggested IDE:</b>Processing</p>
 
 ## Runtime Support
