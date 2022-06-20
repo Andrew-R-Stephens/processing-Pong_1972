@@ -1,7 +1,7 @@
 <h1>About Pong</h1>
 <p><b>Pong</b> is a variant to the classic Pong from 1972.</p>
 <br/>
-<p>This project was originally supposed to be for the Data Structures course at SUNY Old Westbury but it eventually evolved far past the maximum requirements of the project and spiraled into its own thing.</p>
+<p>This project was originally supposed to be for the Data Structures course at SUNY Old Westbury but it eventually evolved far past the project's maximum requirements and spiraled into its own thing.</p>
 <br>
 
 ## Contributors
