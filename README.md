@@ -23,9 +23,8 @@
 <b>Suggested IDE:</b>Processing</p>
 
 ## Runtime Support
-<p><b>Minimum System Requirements</b>
-If you can run Java, you can run this.</p>
-<p><b>Framerate Range:</b>60</p>
-<p><b>Aspect Ratios:</b>16:9</p>
+<p><b>Minimum System Requirements</b> If you can run Java, you can run this.</p>
+<p><b>Framerate Range:</b> 60</p>
+<p><b>Aspect Ratios:</b> 16:9</p>
 <p><b>Required Peripherals:</b> Keyboard, Mouse</p>
 <p><b>Suggested Peripherals:</b> Speakers/Headset</p>
